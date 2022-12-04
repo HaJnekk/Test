@@ -10,7 +10,6 @@
 ```kod programu for(i=1; i<=10; i++)
 {
 if(i%2 == 0 document.write (i + "br")
-
 }
 ```
 
@@ -22,3 +21,4 @@ if(i%2 == 0 document.write (i + "br")
 [hiperłącze](swpw.jpg)
 
 ![nazwa](swpw.jpg)
+
