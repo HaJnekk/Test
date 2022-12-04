@@ -5,4 +5,4 @@
 
 **pogrubienie** lub __pogrubienie__
 >cytowanie
-`dłuzszystesestktkt ktk tkt k
+`dłuzszystesestktkt ktk tkt k`
