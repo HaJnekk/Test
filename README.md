@@ -18,3 +18,7 @@ if(i%2 == 0 document.write (i + "br")
 - punkt 2
   - podpunkt1
 - punkt 3
+
+[hiperłącze](swpw.jpg)
+
+![nazwa](swpw.jpg)
