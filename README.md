@@ -15,5 +15,6 @@ if(i%2 == 0 document.write (i + "br")
 ```
 
 - punkt 1
-- punkt 1
+- punkt 2
  - podpunkt1
+- punkt 3
